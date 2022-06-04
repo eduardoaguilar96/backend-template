@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Esqueleto Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoaguilar96/backend-template.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardoaguilar96/backend-template/issues"
+  },
+  "homepage": "https://github.com/eduardoaguilar96/backend-template#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "save": "^2.5.0"
+  }
+}
